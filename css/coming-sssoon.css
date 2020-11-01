@@ -13,7 +13,10 @@
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  */
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
 body {
+  font-family: "Montserrat", sans-serif;
 }
 .form-control::-moz-placeholder {
   color: #dddddd;
@@ -965,12 +968,12 @@ fieldset[disabled] .btn-warning.active {
   z-index: 3;
 }
 .main .logo.cursive {
-  font-family: "Grand Hotel", cursive;
+  font-family: "Montserrat", sans-serif;
   font-size: 82px;
 }
 .logo.cursive {
-  font-family: "Grand Hotel", cursive;
-  font-size: 82px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 6rem;
 }
 .main .content {
   position: relative;
